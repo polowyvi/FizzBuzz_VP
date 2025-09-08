@@ -6,5 +6,6 @@ public class Main{
         FizzBuzz.doFizzBuzz(5);
 
         FizzBuzz.main(args);
+        // Hello!
     }
 }
